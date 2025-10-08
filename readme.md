@@ -4,7 +4,7 @@
 This project demonstrates the end-to-end development of a **cloud-based data pipeline** using **Azure Medallion Architecture** to process and analyze **aggregated water sensor data** collected from various European countries.  
 
 The pipeline integrates multiple Azure services — from **data ingestion** to **data transformation** to **visualization** — providing a scalable and automated framework for managing complex datasets.
-
+Blog Link: https://medium.com/@abhishekshinde189/building-an-end-to-end-data-pipeline-on-azure-using-medallion-architecture-b780bdd1697a
 ---
 
 ## 🧩 Business Objective
@@ -151,4 +151,5 @@ The final pipeline effectively transforms raw sensor readings into actionable in
 **Abhishek Shinde**  
 🎓 Master’s in Applied Data Science, Syracuse University  
 🔗 [LinkedIn](https://www.linkedin.com/in/abhishekshinde189) | [GitHub](https://github.com/Abhishek1897)
+
 
